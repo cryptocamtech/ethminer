@@ -16,7 +16,7 @@
   "gnetId": 14347,
   "graphTooltip": 0,
   "id": 11,
-  "iteration": 1623302016526,
+  "iteration": 1623707679666,
   "links": [],
   "panels": [
     {
@@ -333,7 +333,7 @@
               }
             ]
           },
-          "unit": "currencyUSD"
+          "unit": "none"
         },
         "overrides": []
       },
@@ -373,7 +373,7 @@
       ],
       "timeFrom": null,
       "timeShift": null,
-      "title": "Unpaid Balance (AUD)",
+      "title": "Unpaid Coins Balance",
       "type": "stat"
     },
     {
@@ -1176,5 +1176,5 @@
   "timezone": "",
   "title": "Ethermine Miner",
   "uid": "JqnyQyrMz",
-  "version": 14
+  "version": 15
 }
